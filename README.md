@@ -2,5 +2,5 @@
  
 ## Data Diri
  
-Nama  : Akhyar
-NPM   : 2108107010095
+- Nama  : Akhyar
+- NPM   : 2108107010095
